@@ -1,0 +1,90 @@
+    body {
+    	background-image: url(../images/StarTrek.jpg);
+    	background-size: 100% auto;
+    	background-repeat: no-repeat;
+    	 }
+
+    h1{
+    	font-size: 60px;
+    	color: red;
+    	margin-left: 450px;
+    }
+    h3{
+    	color: red;
+    	font-size: 40px;
+    	margin-left: 100px;
+    }
+
+     p{
+    	color: red;
+    	font-size: 40px;
+    	margin-left: 100px;
+    	margin-left: 550px;
+    }
+
+
+
+input[type="radio"]{
+
+    width:19px;
+    height:19px;
+    margin-left: 100px;
+  }
+
+
+
+
+
+    #startButton{
+    	background-color: transparent;
+    	color: red;      	
+    	margin-left: 750px;
+      margin-top: 100px; 
+      max-height: 200px;
+      max-width: 300px;   
+    }
+
+     #startText{
+      background-color: transparent;
+      color: red;
+      text-align: center;
+      font-size: 100px;      
+  
+    }
+
+    	#timer{
+    	margin-left: 650px;
+    	color: red;
+    	font-size: 40px;
+    	margin-left: 100px;
+    	}
+
+    	.question{
+    	color: red;
+    	font-size: 30px;
+   	  margin-left: 3px;
+      margin-right: 30px;
+	
+
+    }
+
+    .answer{
+      margin-left: 100px;
+    }
+
+
+        #submitButton{
+      background-color: transparent;
+      color: red;
+      font-size: 40px;      
+      margin-left: 775px;
+    }
+
+    #userScore{
+      color: red;
+      font-size: 30px;
+      margin-left: 775px;
+      margin-right: 30px;
+    }
+
+
